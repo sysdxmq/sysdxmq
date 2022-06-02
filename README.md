@@ -1,3 +1,3 @@
 - This is sysdxmq
-- I’m currently learning cpp
+- I’m currently learning DL
 - If you have any question, send E-mail to sysdxmq@outlook.com
